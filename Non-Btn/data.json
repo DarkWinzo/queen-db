@@ -22,5 +22,17 @@
         "cmd": ".ping"
       }
     ]
+  },
+  {
+    "3EB037A7A4A81D469FABDE": [
+      {
+        "cmdId": "1",
+        "cmd": ".sc"
+      },
+      {
+        "cmdId": "2",
+        "cmd": ".ping"
+      }
+    ]
   }
 ]
